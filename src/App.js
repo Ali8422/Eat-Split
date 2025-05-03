@@ -177,7 +177,3 @@ function FormSplitBill({ selectedFriend }) {
     </form>
   );
 }
-
-function test() {
-  console.log("testing new branch!");
-}
